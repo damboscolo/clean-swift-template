@@ -20,6 +20,6 @@ Added features:
 # Installation
 1. First of all, you have to install the dependency injection framework [Swinject](https://github.com/Swinject/Swinject).
 
-2. After that, to install the template you only have to open the `File Templates` path on Finder, and paste the Clean-Swift Template there:
+2. After that, to install the template you only have to open the `File Templates` path in Finder, and paste the Clean-Swift Template there:
 
     Applications/XCode/Contents/Developer/Libray/XCode/Templates/File Templates
