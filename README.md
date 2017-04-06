@@ -1,5 +1,5 @@
 # Clean-Swift Template
-This is a modification of Clean Swift Template (http://clean-swift.com) made by Daniele Boscolo.
+This is a modification of Clean Swift Template (http://clean-swift.com) made by Daniele Boscolo and [Eduardo Pinto](https://github.com/edulpn).
 
 # Requirements
 Swift 3
