@@ -16,7 +16,7 @@ Here is a list of what is modified:
 * Router is called of Presenter instead of going through View Controller
 
 Added features:
-* Configurator based on dependecy injection using Swinject and SwinjectStoryboard
+* Configurator based on dependecy injection using Swinject and SwinjectStoryboard (Scene configuration is triggered on View Controller instantiation time from Storyboard)
 
 # Installation
 1. First of all, you have to install the dependency injection framework [Swinject](https://github.com/Swinject/Swinject).
