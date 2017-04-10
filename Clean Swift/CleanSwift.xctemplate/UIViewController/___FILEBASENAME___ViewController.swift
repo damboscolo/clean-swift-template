@@ -1,0 +1,1 @@
+../../View Controller.xctemplate/UIViewController/___FILEBASENAME___ViewController.swift

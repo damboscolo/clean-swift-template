@@ -1,0 +1,1 @@
+../../Router.xctemplate/___FILEBASENAME___Router.swift

@@ -1,0 +1,1 @@
+../../Configurator.xctemplate/___FILEBASENAME___Configurator.swift

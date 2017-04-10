@@ -23,10 +23,4 @@ class ___FILEBASENAMEASIDENTIFIER___Router: ___FILEBASENAMEASIDENTIFIER___Router
             return
         }
     }
-    
-    // MARK: Communication
-    
-    func passDataToNextScene(for segue: UIStoryboardSegue) {
-        // NOTE: Teach the router which scenes it can communicate with
-    }
 }
