@@ -24,5 +24,5 @@ Added features:
 2. After that, to install the template you only have to open the `File Templates` path in Finder, and paste the Clean-Swift Template there:
 
 ```
-    Applications/XCode/Contents/Developer/Libray/XCode/Templates/File Templates
+    ~/Library/Developer/Xcode/Templates/File Templates
 ```
